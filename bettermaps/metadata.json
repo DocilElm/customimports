@@ -1,0 +1,11 @@
+{
+  "creator": "BetterMap",
+  "author": "Bloom/Soopyboo32/Tenios",
+  "entry": "index.js",
+  "description": "Better Map but with an s",
+  "name": "BetterMaps",
+  "version": "0.0.1",
+  "requires": [
+    "BetterMap"
+  ]
+}
