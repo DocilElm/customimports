@@ -1,0 +1,12 @@
+{
+    "name": "BloomCore",
+    "description": "Bunch of backend Skyblock related libraries and stuff.",
+    "creator": "UnclaimedBloom6",
+    "version": "0.4.20",
+    "entry": "index.js",
+    "requires": [
+        "requestV2",
+        "PromiseV2",
+        "PogData"
+    ]
+}

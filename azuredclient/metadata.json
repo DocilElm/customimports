@@ -1,0 +1,14 @@
+{
+  "name": "AzuredClient",
+  "creator": "AzuredBlue",
+  "version": "1.6.6",
+  "description": "some cool stuff maybe idk",
+  "entry": "index.js",
+  "requires": [
+    "Vigilance",
+    "BloomCore",
+    "PogData",
+    "RenderLib",
+    "FontLib"
+  ]
+}

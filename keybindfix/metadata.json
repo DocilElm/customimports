@@ -1,0 +1,8 @@
+{
+    "name": "KeybindFix",
+    "author": "DocilElm",
+    "description": "Used by other modules to store keybinds data",
+    "entry": "index.js",
+    "version": "1.1.0",
+    "requires": ["PogData"]
+}
