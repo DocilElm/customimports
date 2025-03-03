@@ -1,0 +1,9 @@
+{
+  "name": "GolemUtils",
+  "creator": "&l&dMinecraftSuchter",
+  "description": "&6GolemUtils &7- &6/golemutils to open settings",
+  "helpMessage": "&7[&6GolemUtils&7]&6 Initializing...",
+  "version": "3.1.4",
+  "entry": "root.js",
+  "requires":["Vigilance", "PogData"]
+}
