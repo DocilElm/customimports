@@ -1,0 +1,7 @@
+{
+    "name": "Narada",
+    "creator": "Dalwyn",
+    "description": "The Narada, a romulan mining ship that destroyed Vulcan",
+    "version": "0.3.3",
+    "entry": "index.js"
+}
