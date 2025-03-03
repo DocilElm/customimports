@@ -1,0 +1,6 @@
+{
+	"name": "fparser",
+	"creator": "bylexus (uploaded by Squagward)",
+	"description": "fparser provides a Formula class that parses strings containing mathematical formulas. See the README.md for a full api description.",
+	"version": "1.3.3"
+}
