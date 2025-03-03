@@ -1,0 +1,18 @@
+{
+  "name": "Doc",
+  "creator": "DocilElm",
+  "description": "Quality of life features for hypixel skyblock",
+  "version": "4.18.9",
+  "entry": "index.js",
+  "changelog": "",
+  "requires": [
+    "requestV2",
+    "PromiseV2",
+    "PogData",
+    "Atomx",
+    "DocGuiLib",
+    "Elementa",
+    "KeybindFix",
+    "Amaterasu"
+  ]
+}
