@@ -1,0 +1,8 @@
+{
+    "name": "mappings",
+    "creator": "Soopyboo32",
+    "description": "Allows for coding using human readable mcp mappings",
+    "requires": [],
+    "version": "0.0.2",
+    "entry": "index.js"
+}
