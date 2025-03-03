@@ -1,0 +1,7 @@
+{
+    "name": "Atomx",
+    "creator": "DocilElm and Dalwyn",
+    "description": "This is a library used by other modules",
+    "version": "1.27.8",
+    "requires": ["requestV2", "PromiseV2"]
+}
