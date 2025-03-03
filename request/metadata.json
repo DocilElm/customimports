@@ -1,0 +1,7 @@
+{
+    "name": "request",
+    "creator": "Ecolsson",
+    "description": "A nicer alternative to XMLHttpRequest with a promise-like API. See the README.md for a full api description",
+    "requires": ["requestV2"],
+    "version": "2.1.0"
+}
