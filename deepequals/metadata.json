@@ -1,0 +1,6 @@
+{
+    "name": "DeepEquals",
+    "author": "Ecolsson",
+    "description": "Compare two different objects for deep equality",
+    "version": "1.0.0"
+}
