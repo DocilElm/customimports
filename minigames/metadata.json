@@ -1,0 +1,7 @@
+{
+  "name": "Minigames",
+  "creator": "Farlow",
+  "version": "0.0.8",
+  "entry": "index.js",
+  "requires": ["PogData"]
+}
