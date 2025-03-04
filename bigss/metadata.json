@@ -1,0 +1,8 @@
+{
+  "name": "bigss",
+  "creator": "eatplastic",
+  "description": "github.com/eatpIastic/simonsays",
+  "version": "0.0.4",
+  "entry": "index.js",
+  "requires": ["RenderLib", "BloomCore"]
+}
