@@ -1,0 +1,9 @@
+{
+    "name": "SBECommands",
+    "author": "IcarusPhantom",
+    "entry": "index.js",
+    "version": "2.0.1",
+    "requires": ["PogData", "Vigilance", "axios", "ChangelogLib"],
+    "helpMessage": "&3[SBEC] &fThanks for downloading this modules! Created by &dIcarusPhantom &c❤ &ffor command list do &e/sbec &for settings do &e/sbecsettings",
+    "description": "Recreating SBE commands that possible in chattrigger"
+}
