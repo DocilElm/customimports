@@ -1,0 +1,8 @@
+{
+    "name": "OrangeAddons",
+    "creator": "orange0513",
+    "version": "2.0.10",
+    "description": "OrangeAddons 2.0.10 (Requested to split 2.1 into multiple releases)",
+    "requires": ["Vigilance", "sleep", "axios", "WebSocket", "requestV2", "PromiseV2", "RenderLibV2"],
+    "entry": "index.js"
+}
