@@ -1,0 +1,12 @@
+{
+  "name": "Rift",
+  "creator": "DocilElm",
+  "description": "idk",
+  "version": "0.0.6",
+  "entry": "index.js",
+  "requires": [ 
+    "RenderLib",
+    "Vigilance",
+    "BeaconBeam"
+   ]
+}
