@@ -1,0 +1,10 @@
+{
+  "name": "DailyRewards",
+  "creator": "builder_247",
+  "description": "Claim Hypixel Daily Rewards from in-game!",
+  "requires": [
+    "axios"
+  ],
+  "version": "1.0.0",
+  "entry": "index.js"
+}
