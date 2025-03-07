@@ -1,0 +1,12 @@
+{
+    "name": "MixendMod",
+    "description": "MixendMod by Mixend. Provides some quality of life features I wanted to enhance my game experience.",
+    "version": "0.8.0",
+    "author": "Mixend",
+    "entry": "index.js",
+    "requires": [
+        "PogData",
+        "Vigilance",
+        "RenderLib"
+    ]
+}
