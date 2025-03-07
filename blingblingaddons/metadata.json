@@ -1,0 +1,14 @@
+{
+    "name": "BlingBlingAddons",
+    "description": "the BEST mod",
+    "creator": "blingbling, Celeite",
+    "version": "1.0.1",
+    "entry": "index.js",
+    "requires": [
+        "Draggable",
+        "PogData",
+        "Elementa",
+        "requestV2",
+        "Amaterasu"
+    ]
+}
