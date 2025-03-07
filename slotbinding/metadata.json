@@ -1,0 +1,8 @@
+{
+    "name": "SlotBinding",
+    "author": "DocilElm",
+    "description": "Doc is the best.",
+    "entry": "index.js",
+    "version": "1.0.0",
+    "requires": ["PogData"]
+}
