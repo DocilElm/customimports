@@ -1,0 +1,15 @@
+{
+    "name": "LegalMap",
+    "description": "Very epic dungeon map.",
+    "creator": "UnclaimedBloom6",
+    "version": "0.2.3",
+    "entry": "index.js",
+    "requires": [
+        "BloomCore",
+        "PogData",
+        "PromiseV2",
+        "CTAutoComplete",
+        "Vigilance",
+        "requestV2"
+    ]
+}
