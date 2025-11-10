@@ -1,0 +1,7 @@
+{
+  "name": "Draggable",
+  "creator": "Squagward",
+  "version": "0.0.2",
+  "description": "Exposes functions to make a Display or coordinate object draggable",
+  "requires": ["PogData"]
+}
